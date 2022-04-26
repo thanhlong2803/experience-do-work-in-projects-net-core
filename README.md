@@ -1,6 +1,6 @@
 
 #  You should learn basic create programming
-| LShould learn | explain and description|
+| Should learn | Explain and description|
 |--|--|
 | What is class?  |   |
 | What is object?  |  |
