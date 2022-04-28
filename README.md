@@ -18,13 +18,20 @@
 | What is Sealed Class/Method?  |  |
 | What is Static Class/Method?  |  |
 | What is Static Interface?  |  |
+|Different Override and Overload? ||
+|Different readonly and const? ||
+|Between interface and abstract? ||
+
+***+ You should know and understand***
+
+
 
 
 ***+ Exprience you should know and many do about it***
 
 | Exprience | Explain and description|
 |--|--|
-| What is class?  |   |
+|  |  gossip|
 
 
 
