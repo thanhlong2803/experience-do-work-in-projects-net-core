@@ -1,5 +1,4 @@
 
-#  You should learn basic create programming
 ***+ You should know and understand***
 | Should learn | Explain and description|
 |--|--|
@@ -31,7 +30,7 @@
 
 | Exprience | Explain and description|
 |--|--|
-|  |  gossip|
+|  |  |
 
 
 
