@@ -24,6 +24,8 @@
 
 ***+ You should know and understand***
 
+| Should learn | Explain and description|
+|--|--|
 |What is SOLID? ||
 |What is Comparasion DI and IOC? ||
 |What is .NET Framework? ||
@@ -31,6 +33,8 @@
 |What is .NET standard? ||
 |What is Middleware? ||
 |What is Service lifetime in .NET Core? ||
+
+
 ***+ Exprience you should know and many do about it***
 
 | Exprience | Explain and description|
