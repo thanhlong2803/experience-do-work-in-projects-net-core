@@ -14,5 +14,6 @@ For Example : Chúng ta có thể lấy ví dụ  Việt Nam , công an hay gọ
  ![enter image description here](https://github.com/thanhlong2803/update-image/blob/main/image4/structclass.png)
  
  ***Step 1: Method In C#***
+ 
  A class method is a command line to perform a certain task. It is dynamic on any object of the class which it a member has access to  many member of class for that object.
   ![enter image description here](https://github.com/thanhlong2803/update-image/blob/main/image4/testpuplic1.png)
