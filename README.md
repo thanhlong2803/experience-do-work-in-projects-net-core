@@ -1,9 +1,11 @@
+
+
 # Let me write what me feel about NET6 and Entity Framework and experience always bring value.
 
 ***+ You should know and understand***
-| Should learn | Explain and description||
+| Should learn | Explain and description|Example Know and understand|
 |--|--|--|
-| What is class?  |   |
+| What is class?  | A class is contain of all the attributes of object, Method implement the behavior of member objects, It's created data type. A class inherits the data members and behaviors of other classes by extending from them.|Mockup design help to understands about class, Let me apply it.    ![enter image description here](https://github.com/thanhlong2803/update-image/blob/main/image4/employee-class.png)In above we create 2 class include ***emloyee class*** and ***employee detail class***! Employee class all the attributes: Firstname, Lastname, Age, BOD, DepartmentName, Position. Attributes is define for per data type such as (string , int ,DateTime, boolean, etc...)  ![enter image description here](https://github.com/thanhlong2803/update-image/blob/main/image4/employeeclass.png) and employee detail is inherits a lot of info employee class  ![enter image description here](https://github.com/thanhlong2803/update-image/blob/main/image4/employeeDetail.png)|
 | What is object?  |  |
 | What is variable?  |  |
 | What is variable?  |  |
