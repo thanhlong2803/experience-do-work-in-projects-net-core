@@ -1,8 +1,8 @@
 # Let me write what me feel about NET6 and Entity Framework and experience always bring value.
 
 ***+ You should know and understand***
-| Should learn | Explain and description|
-|--|--|
+| Should learn | Explain and description||
+|--|--|--|
 | What is class?  |   |
 | What is object?  |  |
 | What is variable?  |  |
