@@ -9,7 +9,7 @@
 |--|--|
 | What is class?  | https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/blob/main/Know-and-understand/how-use-class/README.md |
 | What is object?  |  |
-| What is variable?  |  |
+| What is the relationship between a class and an object?|  |
 | What is variable?  |  |
 | What is Method hoặc Functions?  |  |
 | What is Access Modifiers?  |  |
