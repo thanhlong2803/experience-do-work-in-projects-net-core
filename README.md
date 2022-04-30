@@ -7,7 +7,7 @@
 
 | Exprience | Explain and description|
 |--|--|
-| Create project small project change department. | https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/experience-you-should-know/ChangeDepartmentManagement |
+| Create project change department of employee. | https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/experience-you-should-know/ChangeDepartmentManagement |
 
 
 ***+ You should know and understand***
