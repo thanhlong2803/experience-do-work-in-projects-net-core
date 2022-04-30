@@ -3,6 +3,13 @@
 
 # Let me write what me feel about NET 6 and Entity Framework and experience always bring value.
 
+***+ Exprience you should know and many do about it***
+
+| Exprience | Explain and description|
+|--|--|
+| Create project small project change department. | https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/experience-you-should-know/ChangeDepartmentManagement |
+
+
 ***+ You should know and understand***
 
 | Should learn | Explain and description|
@@ -33,11 +40,7 @@
 |What is Service lifetime in .NET Core? ||
 
 
-***+ Exprience you should know and many do about it***
 
-| Exprience | Explain and description|
-|--|--|
-|  |  |
 
 
 
