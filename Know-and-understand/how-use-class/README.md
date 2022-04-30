@@ -20,3 +20,19 @@ For Example : Chúng ta có thể lấy ví dụ  Việt Nam , công an hay gọ
 ***Step 2: Initialization Constructor In C#***
 
 ***The constructor*** is a special method of the class that will executed whereever we create new objects of that class. A constructor has the same name as the class and doesn't have value return data_type. 
+
+***- Create default constructor***
+  ![enter image description here](https://github.com/thanhlong2803/update-image/blob/main/image4/default_constructor.png)
+  ![enter image description here](https://github.com/thanhlong2803/update-image/blob/main/image4/default_constructor1.png)
+  
+  ***- Create constructor with parameters***
+  
+  ![enter image description here](https://github.com/thanhlong2803/update-image/blob/main/image4/withprametercontructor.png)
+  
+ In constructor have 2 special method include : Private constructor and Static constructor in C#
+ 
+ 
+ 
+ 
+ 
+ 
