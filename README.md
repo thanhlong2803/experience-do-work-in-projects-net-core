@@ -10,8 +10,7 @@
 | Create project change department of employee. | https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/experience-you-should-know/ChangeDepartmentManagement |
 
 
-***+ You should know and understand***
-
+# You should know and understand.
 | Should learn | Explain and description|
 |--|--|
 | What is class?  | https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/blob/main/Know-and-understand/how-use-class/README.md |
@@ -27,8 +26,6 @@
 |Different readonly and const? ||
 |Between interface and abstract? ||
 
-***+ You should know and understand***
-
 | Should learn | Explain and description|
 |--|--|
 |What is SOLID? ||
@@ -40,7 +37,9 @@
 |What is Service lifetime in .NET Core? ||
 
 
-
+| Should learn | Explain and description|
+|--|--|
+|What is design parttern? ||
 
 
 
