@@ -17,6 +17,7 @@
 | What is object?  | https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/how-use-object#readme |
 | What is Access Modifiers?  |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/blob/main/Know-and-understand/access-modifiers/README.md  |
 | What is Encapsulation, Abstraction, Inheritance, Polymorphism  in C#?  |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/blob/main/Know-and-understand/what-is-opp/README.md  |
+|What is the Difference Between Polymorphism and Inheritance in OOP?||
 |Differences among C# Variable, Instance (Object) and Reference||
 |Different Override and Overload? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/between-overriable-and-overload|
 |Different readonly and const? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/between-readonly-and-const|
