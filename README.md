@@ -21,23 +21,13 @@
 |Different Override and Overload? ||
 |Different readonly and const? ||
 |Between interface and abstract? ||
-
-| Should learn | Explain and description|
-|--|--|
-|What is SOLID? ||
+| ```What is SOLID?```||
 |What is Comparasion DI and IOC? ||
 |What is .NET Framework? ||
 |What is .NET Core? ||
 |What is .NET standard? ||
 |What is Middleware? ||
 |What is Service lifetime in .NET Core? ||
-
-
-| Should learn | Explain and description|
-|--|--|
-|What is design parttern? ||
-
-
 
 **If you watch and should you spend a little time studying and practicing. Lucky to you and get more understand about it. You get more interested in the angular and net 6**
 
