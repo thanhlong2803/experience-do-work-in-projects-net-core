@@ -19,7 +19,7 @@
 | What is Encapsulation, Abstraction, Inheritance, Polymorphism  in C#?  |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/blob/main/Know-and-understand/what-is-opp/README.md  |
 |What is the Difference Between Polymorphism and Inheritance in OOP?||
 |Differences among C# Variable, Instance (Object) and Reference||
-|Different Override and Overload? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/between-overriable-and-overload|
+|Different Overriding  and Overloading? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/between-overriable-and-overload|
 |Different readonly and const? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/between-readonly-and-const|
 |Between interface and abstract? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/between-interface-and-abstract|
 | ```What is SOLID?```||
