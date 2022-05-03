@@ -27,7 +27,6 @@
 # You should know and understand Roadmap to becoming an ASP.NET Core developer in 2022.
 |Know and understand| Explain and description |
 |--|--|
-|Learn the basic of C# ||
 |ASP.NET core Basics ||
 |What is SOLID? ||
 |What is SQL Fundamentals? ||
