@@ -27,12 +27,22 @@
 # You should know and understand Roadmap to becoming an ASP.NET Core developer in 2022.
 |Know and understand| Explain and description |
 |--|--|
-|What is Comparasion DI and IOC? ||
-|What is .NET Framework? ||
-|What is .NET Core? ||
-|What is .NET standard? ||
-|What is Middleware? ||
-|What is Service lifetime in .NET Core? ||
+|Learn the basic of C# ||
+|ASP.NET core Basics ||
+|What is SOLID? ||
+|What is SQL Fundamentals? ||
+|What is ORM (Entity Framework and Entity Framework core? ||
+|What is Dependency Injection? ||
+|What is Caching ? ||
+|What is Database ? ||
+|What is Log Franeworks ? ||
+|What is API clients & Communnications? ||
+|What is Real-time comminnications? ||
+|What is Objcet mapping? ||
+|What is Task Scheduling? ||
+
+
+
 
 **If you watch and should you spend a little time studying and practicing. Lucky to you and get more understand about it. You get more interested in the angular and net 6**
 
