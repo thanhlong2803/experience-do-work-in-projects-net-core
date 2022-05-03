@@ -23,7 +23,7 @@
 |Different Overriding  and Overloading? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/between-overriable-and-overload|
 |Different readonly and const? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/between-readonly-and-const|
 |Different Between interface and abstract? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/between-interface-and-abstract|
-|Difference between Ref and Out keywords in C#||
+|Difference between Ref and Out keywords in C#|https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/blob/main/Know-and-understand/explain-ref-and-out|
 | ```What is SOLID?```||
 |What is Comparasion DI and IOC? ||
 |What is .NET Framework? ||
