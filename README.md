@@ -31,7 +31,7 @@
 |ASP.NET core Basics ||
 |What is SOLID? ||
 |What is SQL Fundamentals? ||
-|What is ORM (Entity Framework and Entity Framework core? ||
+|What is ORM (Entity Framework and Entity Framework core)? ||
 |What is Dependency Injection? ||
 |What is Caching ? ||
 |What is Database ? ||
@@ -43,6 +43,7 @@
 |What is Design patterns? ||
 |What is client-side libraties? ||
 |What is Template Enginer? ||
+|What is Fluent validation? ||
 
 
 
