@@ -28,7 +28,7 @@
 |Know and understand| Explain and description |
 |--|--|
 |ASP.NET core Basics ||
-|What is SOLID? ||
+|What is SOLID? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/blob/main/Know-and-understand/net-core/what-is-solid/README.md|
 |What is SQL Fundamentals? ||
 |What is ORM (Entity Framework and Entity Framework core)? ||
 |What is Dependency Injection? ||
