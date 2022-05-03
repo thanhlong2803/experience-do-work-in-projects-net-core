@@ -40,6 +40,11 @@
 |What is Real-time comminnications? ||
 |What is Objcet mapping? ||
 |What is Task Scheduling? ||
+|What is Design patterns? ||
+|What is client-side libraties? ||
+|What is Template Enginer? ||
+
+
 
 
 
