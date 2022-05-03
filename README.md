@@ -11,7 +11,7 @@
 | Create project change department of employee. | https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/experience-you-should-know/ChangeDepartmentManagement |
 
 
-# You should know and understand OPP Fundamentals.
+# You should know and understand OPP Fundamentals and Learn the basic of C#.
 | Know and understand | Explain and description|
 |--|--|
 | What is class?  | https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/blob/main/Know-and-understand/how-use-class/README.md |
