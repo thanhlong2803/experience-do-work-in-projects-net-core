@@ -25,6 +25,7 @@
 |Different Between interface and abstract? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/between-interface-and-abstract|
 |Difference between Ref and Out keywords in C#|https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/blob/main/Know-and-understand/explain-ref-and-out|
 # You should know and understand Roadmap to becoming an ASP.NET Core developer in 2022.
+|Know and understand| Explain and description |
 |--|--|
 |What is Comparasion DI and IOC? ||
 |What is .NET Framework? ||
