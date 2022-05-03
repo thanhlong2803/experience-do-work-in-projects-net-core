@@ -11,8 +11,8 @@
 | Create project change department of employee. | https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/experience-you-should-know/ChangeDepartmentManagement |
 
 
-# You should know and understand.
-| Should learn | Explain and description|
+# You should know and understand about C#.
+| Know and understand | Explain and description|
 |--|--|
 | What is class?  | https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/blob/main/Know-and-understand/how-use-class/README.md |
 | What is object?  | https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/how-use-object#readme |
