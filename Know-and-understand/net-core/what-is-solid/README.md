@@ -30,5 +30,7 @@ Một ngày đẹp trời khách hàm thêm tính năng đụng chạm vào hàm
 
 ![enter image description here](https://github.com/thanhlong2803/update-image/blob/main/image4/close-custom.png)
 
-# Open closed principle (OCP)
-
+# Liskov substitution principle (LSP)
+Class con không nên phá vỡ các định nghĩa và hành vi của class cha.
+ ![enter image description here](https://github.com/thanhlong2803/update-image/blob/main/image4/overriding.png) 
+ ***Tách chúng ra thành 2 interface khác nhau.***
