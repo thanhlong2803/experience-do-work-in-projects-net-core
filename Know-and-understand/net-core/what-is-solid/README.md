@@ -34,3 +34,8 @@ Một ngày đẹp trời khách hàm thêm tính năng đụng chạm vào hàm
 Class con không nên phá vỡ các định nghĩa và hành vi của class cha.
  ![enter image description here](https://github.com/thanhlong2803/update-image/blob/main/image4/overriding.png) 
  ***Tách chúng ra thành 2 interface khác nhau.***
+ 
+ # Interface segregation principle (ISP)
+ 
+ # Dependency inversion principle (DIP)
+ 
