@@ -29,3 +29,6 @@ For Example:
 Một ngày đẹp trời khách hàm thêm tính năng đụng chạm vào hàm getEmployeeId().Quá trình làm nó mún thêm chức năng trả về string. Nếu ta đổi kiểu int qua string rất nhiều hàm bị ảnh hưởng nên khuyên nên tạo 1 class kế thừa để xây dựng cho chức năng khác.
 
 ![enter image description here](https://github.com/thanhlong2803/update-image/blob/main/image4/close-custom.png)
+
+# Open closed principle (OCP)
+
