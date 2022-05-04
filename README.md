@@ -27,8 +27,8 @@
 # You should know and understand Roadmap to becoming an ASP.NET Core developer in 2022.
 |Know and understand| Explain and description |
 |--|--|
-|ASP.NET core Basics ||
 |What is SOLID? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/blob/main/Know-and-understand/net-core/what-is-solid/README.md|
+|ASP.NET core Basics |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/net-core/asp.net-core-basics|
 |What is SQL Fundamentals? ||
 |What is ORM (Entity Framework and Entity Framework core)? ||
 |What is Dependency Injection? ||
