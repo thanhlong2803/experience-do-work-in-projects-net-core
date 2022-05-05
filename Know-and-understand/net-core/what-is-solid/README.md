@@ -36,6 +36,28 @@ Class con không nên phá vỡ các định nghĩa và hành vi của class cha
  ***Tách chúng ra thành 2 interface khác nhau.***
  
  # Interface segregation principle (ISP)
+ Không nên sử dụng một interface lớn cho một mục đích chung, nên tách ra thành nhiều interface nhỏ với những mục đích cụ thể.
+ 
+ Nếu ta dồn tất cả vào 1 interface nó sẽ phình và khó maintain dư án sau này nên tách ra. Ví dụ như bên dưới sai nguyên tắc.
+ 
+ ![enter image description here](https://github.com/thanhlong2803/update-image/blob/main/image4/interface.png) 
+
+ Ta có interface Employee chứa qa nhìu việc impliment cho nó. Chúng ta nên tách nó ra.
+  ![enter image description here](https://github.com/thanhlong2803/update-image/blob/main/image4/i_p.png) 
  
  # Dependency inversion principle (DIP)
+ Module cấp cao không nên phụ thuộc vào module cấp thấp, cả 2 nên phụ thuộc vào abstraction.
+ Nói một cách tóm tắt, IoC là một design pattern được tạo ra để các code tuân thủ nguyên lý Dependency Inversion. Có một vài mô hình được sử dụng để triển khai để triển khai Inversion of Control, bao gồm:
+
+Service Locator
+Events
+DI (Dependency Injection)
+Để hiểu rõ hơn về IoC, chúng ta có thể lấy ví dụ như sau: Giả dụ có 1 class mẹ A và hai class con B và C ( lúc này B và C sẽ được gọi là các dependencies)
+
+Ở trong mô hình không sử dụng IoC, Class A sẽ phải khởi tạo và điều khiển hai class B và C, bất cứ thay đổi nào ở Class A cũng sẽ dẫn tới thay đổi ở Class B,C. Một thay đổi sẽ kéo theo hàng loạt các thay đổi khác, làm giảm khả năng bảo trì của code. Trong khi đó, trong mô hình sử dụng IoC, các class B và C sẽ được đưa đến độc lập so với class A thông qua bên thứ ba, do đó các class không phụ thuộc lẫn nhau mà chỉ phụ thuộc vào interface. Điều này đồng nghĩa rằng sự thay đổi ở class cấp cao không ảnh hưởng tới class cấp thấp hơn.
+ 
+ ![enter image description here](https://github.com/thanhlong2803/update-image/blob/main/image4/inversion.png) 
+ 
+ Lớp AnTrom quá phụ thuộc vào 2 lớp con nên nguyên tắt này nói rằng ko nên để cha phụ thuộc vào con nhìu qá.
+ ![enter image description here](https://github.com/thanhlong2803/update-image/blob/main/image4/should_inversion.png) 
  
