@@ -22,9 +22,13 @@ Stands for "Model-View-Controller." MVC is an  aplication  design model  compris
 The MVC model or "pattern" is commonly used for developing modern user interfaces. It is provides the fundamental [cơ bản] x pieces [miếng] x for designing a  programs for  desktop  or  mobile, as well as web applications. It works well with object-oriented programming, since the different models, views, and controllers can be treated [điều hướng] x as objects and reused within an application.
 
 Below is a description of each aspect of MVC:
+
 **1. Model:** In simple words, the Model contains data about the application. All the information that is essential to be shown or displayed, its requirements with respect to access and other validations are all specified here.
+
 **2. View:** View displays the data in the Model component. Any response from the user is also recognized and sent to the Controller component.
+
 **3. Controller:** The Controller is responsible for providing the data present in the Model to the View component and interpreting the user responses that the View component recognizes.
+
 ### Required Skills
 -   Complete understanding of the architectural pattern.
 -   Understanding how to use the framework.
