@@ -53,3 +53,4 @@ It is a framework that helps us to build or deploy the services of HTTP.
 It is already implemented in our project for documenting the web service in this project we have separate  [tách rời]  x endpoints for getting ***POST, DELETE AND PUT***
 
 ***What is the http?***
+REST, which is a very important architectural style nowadays is relying [dựa vào] x completely [hoàn toàn] x on utilizing [sử dụng] x HTTP features, so that makes HTTP even [thậm chí] x more important to understand. If you want to make great RESTful applications, you must understand HTTP first.
