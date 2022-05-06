@@ -52,7 +52,7 @@ Below is a description of each aspect of MVC:
 
 It is a framework that helps us to build or deploy the services of HTTP.
 
-It is already implemented in our project for documenting the web service in this project we have separate  [tách rời]  x endpoints for getting ***POST, DELETE AND PUT***
+It is already implemented in our project for documenting the web service in this project we have separate  [tách rời]  x endpoints for getting ***GET, PUT, POST and DELETE.***
 
 ***What is the http?***
 
