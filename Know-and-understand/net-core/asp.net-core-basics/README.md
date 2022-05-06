@@ -15,7 +15,7 @@
 -  Auth0
 -  OIDC
 
-# Introduce Asp .net core
+# Introduce ASP .NET Core 
  ASP.NET Core is a cross-platform, high-performance, open-source framework for building modern, cloud-based, Internet-connected applications. With ASP.NET Core, you can
 
 # What is MVC ?
@@ -47,20 +47,22 @@ Below is a description of each aspect of MVC:
 -   It helps in the better maintenance of the application.
 -   It reduces ambiguity [sự mơ hồ] x and uncertainty [tính không chắc chắn] x.
 -   The most important thing we can do with MVC is an abstraction of logic from View.
-# Why use to Asp .Net core REST ?
+-   
+# Why use to ASP .Net Core REST ?
+
 It is a framework that helps us to build or deploy the services of HTTP.
 
 It is already implemented in our project for documenting the web service in this project we have separate  [tách rời]  x endpoints for getting ***POST, DELETE AND PUT***
 
-***What is the REST?***
+***What is the http?***
 
 REST, which is a very important architectural style nowadays is relying [dựa vào] x completely [hoàn toàn] x on utilizing [sử dụng] x HTTP features, so that makes HTTP even [thậm chí] x more important to understand. If you want to make great RESTful applications, you must understand HTTP first.
 
-***What is the HTTP?***
-
-***This is the second part of the HTTP Series:***
+This is the second part of the HTTP Series:
  - Web Servers
  - Proxy Servers
  - Caching
  - Gateways, Tunnels, and Relays
  - Web Crawlers
+
+#  ASP .Net Core - Middleware
