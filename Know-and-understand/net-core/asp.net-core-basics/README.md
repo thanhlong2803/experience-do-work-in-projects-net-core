@@ -1,4 +1,5 @@
 
+
  
 # ASP.NET Core Basics and Know and understand
 -  MVC
@@ -13,6 +14,9 @@
 -  IdentityServer
 -  Auth0
 -  OIDC
+
+# Introduce Asp .net core
+ ASP.NET Core is a cross-platform, high-performance, open-source framework for building modern, cloud-based, Internet-connected applications. With ASP.NET Core, you can
 
 # What is MVC ?
 ***Explain MVC (Model-View-Controller.)***
@@ -43,3 +47,9 @@ Below is a description of each aspect of MVC:
 -   It helps in the better maintenance of the application.
 -   It reduces ambiguity [sự mơ hồ] x and uncertainty [tính không chắc chắn] x.
 -   The most important thing we can do with MVC is an abstraction of logic from View.
+# Why use to Asp .Net core REST ?
+It is a framework that helps us to build or deploy the services of HTTP.
+
+It is already implemented in our project for documenting the web service in this project we have separate  [tách rời]  x endpoints for getting ***POST, DELETE AND PUT***
+
+***What is the http?***
