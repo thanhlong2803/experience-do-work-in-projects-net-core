@@ -29,7 +29,7 @@
 |--|--|
 |What is SOLID? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/blob/main/Know-and-understand/net-core/what-is-solid/README.md|
 |ASP.NET core Basics |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/net-core/asp.net-core-basics|
-|ASP.NET Core - Middleware||
+|ASP.NET Core - Middleware|https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/net-core/asp.net-core-middleware|
 |What is SQL Fundamentals? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/net-core/sql-fundamentals|
 |What is ORM (Entity Framework and Entity Framework core)? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/net-core/ORM-Entity-Framework|
 |What is Dependency Injection? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/net-core/dependency-injection|
