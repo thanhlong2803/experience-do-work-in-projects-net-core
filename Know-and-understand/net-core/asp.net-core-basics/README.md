@@ -57,9 +57,10 @@ It is already implemented in our project for documenting the web service in this
 REST, which is a very important architectural style nowadays is relying [dựa vào] x completely [hoàn toàn] x on utilizing [sử dụng] x HTTP features, so that makes HTTP even [thậm chí] x more important to understand. If you want to make great RESTful applications, you must understand HTTP first.
 
 ***What is the HTTP?***
-This is the second part of the HTTP Series:
-	Web Servers
-	Proxy Servers
-	Caching
-	Gateways, Tunnels, and Relays
-	Web Crawlers
+
+***This is the second part of the HTTP Series:***
+ - Web Servers
+ - Proxy Servers
+ - Caching
+ - Gateways, Tunnels, and Relays
+ - Web Crawlers
