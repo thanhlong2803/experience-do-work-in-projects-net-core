@@ -36,5 +36,12 @@ Code for screen above:
 ![enter image description here](https://github.com/thanhlong2803/update-image/blob/main/image4/screen5.png)
 ![enter image description here](https://github.com/thanhlong2803/update-image/blob/main/image4/screen6.png)
 
+
+# Type dependency Injection 
+ -   **Inject thông qua phương thức khởi tạo:**  cung cấp các Dependency cho đối tượng thông qua hàm khởi tạo ( như đã thực hiện ở ví dụ trên) -  tập trung vào cách này vì thư viện .NET hỗ trợ sẵn
+ -   **Inject thông qua setter:** tức các Dependency như là thuộc tính của lớp, sau đó inject bằng gán thuộc tính cho Depedency  `object.denpendency = obj;`
+ -   **Inject thông qua các Interface**  - xây dựng Interface có chứa các phương thức Setter để thiết lập dependency, interface này sử dụng bởi các lớp triển khai, lớp triển khai phải định nghĩa các setter quy định trong interface
+
+
 # What Dependency injection (DI) in Asp.Net core
 .Net Core is provider libary using dependency injection (DI) `using Microsoft.Extensions.DependencyInjection;`
