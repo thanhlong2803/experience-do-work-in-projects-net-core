@@ -35,7 +35,7 @@
 |What is Dependency Injection? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/net-core/dependency-injection|
 |What is SQL Fundamentals? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/net-core/sql-fundamentals|
 |What is Database ? ||
-|What is ORM (Entity Framework and Entity Framework core)? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/net-core/ORM-Entity-Framework|
+|What is ORM? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/net-core/ORM-Entity-Framework|
 |What is Caching ? ||
 |What is Log Franeworks ? ||
 |What is API clients & Communnications? ||
