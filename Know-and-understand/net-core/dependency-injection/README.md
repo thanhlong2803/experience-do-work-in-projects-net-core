@@ -27,5 +27,7 @@ IoC  is Inversion of control (Dependency Inverse ) and below screen:
 Code for screen above:
 ![enter image description here](https://github.com/thanhlong2803/update-image/blob/main/image4/ban-ga-tuyen-thong.png)
 
-***Một ngày đẹp trời nhà tiêu dùng thích ăn gà luộc.Thì phải làm sao ko lẻ đập ra xây lại ko lẻ chen code vào cái đúng . Khả năng ảnh hưởng hệ thống ko.***
-
+***Một ngày đẹp trời nhà tiêu dùng thích sữa bò.Thì phải làm sao ko lẻ đập ra xây lại ko lẻ chèn code vào cái đúng . Khả năng ảnh hưởng hệ thống ko. sau này thêm 100 món  người tiêu dùng thích làm sau.***
+![enter image description here](https://github.com/thanhlong2803/update-image/blob/main/image4/screen2.png)
+**Solution use interface to impliment***
+![enter image description here](https://github.com/thanhlong2803/update-image/blob/main/image4/screen3.png)
