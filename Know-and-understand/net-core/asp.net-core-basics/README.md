@@ -65,4 +65,3 @@ This is the second part of the HTTP Series:
  - Gateways, Tunnels, and Relays
  - Web Crawlers
 
-#  ASP .Net Core - Middleware
