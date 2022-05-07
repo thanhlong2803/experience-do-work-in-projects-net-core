@@ -45,3 +45,31 @@ Code for screen above:
 
 # What Dependency injection (DI) in Asp.Net core
 .Net Core is provider libary using dependency injection (DI) `using Microsoft.Extensions.DependencyInjection;`
+
+DI container: ServiceCollection là lớp triển khai giao diện IserviceCollection nó có chức năng quản lý các dịch vụ ***(đăng ký dịch vụ , tạo dịch vụ , tự động inject và các dependency của dịch vụ,.... )*** . ServiceCollection là trung tâm xử lý của kỹ thuật DI, nó là thành phần rất quan trọng trong ứng dụng ASP.net core.
+
+ - Khởi tạo đối tượng ServiceCollection , sau đó đăng ký (lớp) các dịch vụ nào ServiceCollection.
+ - Từ `ServiceCollection` phát sinh ra đối tượng `ServiceProvider`, từ đối tượng này truy vấn lấy ra các dịch vụ cụ thể khi cần
+ 
+***ServiceLifetime***
+Mỗi dịch vụ (lớp) khi đăng ký vào `ServiceCollection` thì có một đối tượng `ServiceDescriptor` chứa thông tin về dịch vụ đó, căn cứ vào ServiceDescriptor để ServiceCollection khởi tạo dịch vụ khi cần. Trong ServiceDescriptor có thuộc tính Lifetime để xác định dịch vụ tạo ra tồn tại trog bao lâu. Lifetime có kiểu `ServiceLifetime` (kiểu enum) có các giá trị cụ thể:
+ 
+
+ - Scoped:  Một bản thực thi (instance) của dịch vụ (Class) được tạo ra cho mỗi phạm vi, tức tồn tại cùng với sự tồn tại của một đối tượng kiểu `ServiceScope` (đối tượng này tạo bằng cách gọi `ServiceProvider.CreateScope`, đối tượng này hủy thì dịch vụ cũng bị hủy).
+ - Singleton: Duy nhất một phiên bản thực thi (instance of class) (dịch vụ) được tạo ra cho hết vòng đời của ServiceProvider
+ - Transient:  Một phiên bản của dịch vụ được tạo mỗi khi được yêu cầu.
+
+Right now, Khởi tạo ServiceCollection như sau
+`var service = new ServiceCollection();`
+
+Khi đã có đối tượng bạn có thể thực hiện các thao như đăng ký dịch vụ vào ServiceCollection (DI container) 
+Nếu ta muốn lấy đối tượng thì thông qua `ServiceProvider` , Vì thông qua nó ta sẽ lấy được các dịch vụ đăng ký ``ServiceCollection``.
+
+ - AddSingleton<ServiceType,  ImplementationType>() or  AddSingleton< ServiceType> => value change but return one data
+ - AddTransient<ServiceType, ImplementationType>() => change data return order data
+ - AddScope<ServiceType, ImplementationType>() => change data return order data if within scope
+ 
+ ![enter image description here](https://github.com/thanhlong2803/update-image/blob/main/image4/addsingleton.png)
+ ![enter image description here](https://github.com/thanhlong2803/update-image/blob/main/image4/addtransient.png)
+ ![enter image description here](https://github.com/thanhlong2803/update-image/blob/main/image4/addscoped.png)
+
