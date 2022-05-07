@@ -36,4 +36,5 @@ Code for screen above:
 ![enter image description here](https://github.com/thanhlong2803/update-image/blob/main/image4/screen5.png)
 ![enter image description here](https://github.com/thanhlong2803/update-image/blob/main/image4/screen6.png)
 
-
+# What Dependency injection (DI) in Asp.Net core
+.Net Core is provider libary using dependency injection (DI) `using Microsoft.Extensions.DependencyInjection;`
