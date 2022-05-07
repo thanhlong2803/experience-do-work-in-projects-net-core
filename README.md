@@ -28,13 +28,15 @@
 |Know and understand| Explain and description |
 |--|--|
 |What is SOLID? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/blob/main/Know-and-understand/net-core/what-is-solid/README.md|
+|Know and understand|![enter image description here](https://github.com/thanhlong2803/update-image/blob/main/image4/structASPCoreAndFramework.png)|
 |ASP.NET core Basics |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/net-core/asp.net-core-basics|
 |ASP.NET Core - Middleware|https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/net-core/asp.net-core-middleware|
-|What is SQL Fundamentals? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/net-core/sql-fundamentals|
-|What is ORM (Entity Framework and Entity Framework core)? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/net-core/ORM-Entity-Framework|
+|What is Ioc?|https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/blob/main/Know-and-understand/net-core/inversion-of-control/README.md|
 |What is Dependency Injection? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/net-core/dependency-injection|
-|What is Caching ? ||
+|What is SQL Fundamentals? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/net-core/sql-fundamentals|
 |What is Database ? ||
+|What is ORM (Entity Framework and Entity Framework core)? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/net-core/ORM-Entity-Framework|
+|What is Caching ? ||
 |What is Log Franeworks ? ||
 |What is API clients & Communnications? ||
 |What is Real-time comminnications? ||
