@@ -33,6 +33,7 @@
 |ASP.NET Core - Middleware|https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/net-core/asp.net-core-middleware|
 |What is Ioc?|https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/blob/main/Know-and-understand/net-core/inversion-of-control/README.md|
 |What is Dependency Injection? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/net-core/dependency-injection|
+|Filters & Attributes ?||
 |What is SQL Fundamentals? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/net-core/sql-fundamentals|
 |What is Database ? ||
 |What is ORM? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/net-core/ORM-Entity-Framework|
