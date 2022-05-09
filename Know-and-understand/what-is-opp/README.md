@@ -12,5 +12,7 @@ The abstraction is a process that ```exposes phơi bày``` only the basic inform
 It is based on the separation of interface and interface implementations.
 
 # What is Inheritance in C#?
+Tính kế thừa là một tính chất rất quan trọng nó cho class này kế thừa class kia. Tính chất này thể hiện rõ nhất là khi ta dùng Abstract Class có thể cho class khác kế thừa. 
 
 # What is Polymorphism in C#?
+Tính đa hình rất quan trọng nó được thể rõ nhất là trong overloading. Có nghĩa là function method có cùng tên nhứng khác tham số truyền vô.
