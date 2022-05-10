@@ -33,6 +33,7 @@
 |What is Dependency Injection? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/net-core/dependency-injection|
 |Filters & Attributes ?|https://github.com/thanhlong2803/filters-attributes-authorize-and-angular|
 |What is SQL Fundamentals? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/net-core/sql-fundamentals|
+|Authentication & Authorzation||
 |What is Database ? ||
 |What is ORM? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/net-core/ORM-Entity-Framework|
 |What is Caching ? ||
