@@ -35,7 +35,7 @@
 |What is SQL Fundamentals? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/net-core/sql-fundamentals|
 |Authentication & Authorzation||
 |What is Database ? ||
-|What is ORM? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/net-core/ORM-Entity-Framework|
+|What is ORM-Entity-Framework? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/net-core/ORM-Entity-Framework|
 |What is Caching ? ||
 |What is Log Franeworks ? ||
 |What is API clients & Communnications? ||
