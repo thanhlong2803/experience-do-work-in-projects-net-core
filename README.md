@@ -22,6 +22,13 @@
 |Different readonly and const? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/between-readonly-and-const|
 |Different Between interface and abstract? |https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/tree/main/Know-and-understand/between-interface-and-abstract|
 |Difference between Ref and Out keywords in C#|https://github.com/thanhlong2803/experience-do-work-in-projects-net-core/blob/main/Know-and-understand/explain-ref-and-out|
+|Desgin parttens CQRS? ||
+|Desgin parttens Decorator? ||
+|Desgin parttens Strategy? ||
+|Desgin parttens Builder? ||
+|Desgin parttens Singleton? ||
+|Desgin parttens Facade? ||
+
 # You should know and understand Roadmap to becoming an ASP.NET Core developer in 2022.
 |Know and understand| Explain and description |
 |--|--|
@@ -46,11 +53,6 @@
 |What is client-side libraties? ||
 |What is Template Enginer? ||
 |What is Fluent validation? ||
-
-
-
-
-
 
 **If you watch and should you spend a little time studying and practicing. Lucky to you and get more understand about it. You get more interested in the angular and net 6**
 
