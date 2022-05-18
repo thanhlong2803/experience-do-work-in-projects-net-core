@@ -8,7 +8,8 @@
 | Exprience | Explain and description|
 |--|--|
 |Internal department transfer letter |https://github.com/thanhlong2803/internal-departmant-transfer-letter|
-
+|The project help create question|https://github.com/thanhlong2803/question-answer-employee|
+|The project build real time application|https://github.com/thanhlong2803/build-real-time-application-with-signlR-asp-net-core|
 # You should know and understand OPP Fundamentals and Learn the basic of C#.
 | Know and understand | Explain and description|
 |--|--|
